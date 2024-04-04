@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CoinDesk</string>
+    <string name="bpi">BPI</string>
+    <string name="currency">Rate</string>
+    <string name="updated">Updated</string>
+    <string name="gbp">GBP</string>
+    <string name="eur">EUR</string>
+    <string name="usd">USD</string>
+</resources>
